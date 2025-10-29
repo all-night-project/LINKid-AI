@@ -1,0 +1,13 @@
+{
+  "graphs": {
+    "default": "src.graph:graph"
+  },
+  "dependencies": [
+    "-r requirements.txt"
+  ],
+  "checkpoints": {
+    "default": {
+      "type": "memory"
+    }
+  }
+}
