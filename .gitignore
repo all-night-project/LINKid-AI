@@ -86,3 +86,5 @@ artifacts/
 # ---------------------------
 .docker/
 docker-compose.override.yml
+.langgraph_api/
+.env.*
