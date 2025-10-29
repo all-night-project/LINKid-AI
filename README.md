@@ -43,8 +43,8 @@ pip install -r requirements.txt
 
 ## Docker
 ```bash
-docker build -t lg-multi-agent .
-docker run --rm --env-file .env lg-multi-agent
+docker build -t linkid-multi-agent .
+docker run --rm --env-file .env linkid-multi-agent
 ```
 
 ## 보안 주의
